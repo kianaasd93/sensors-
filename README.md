@@ -1,5 +1,5 @@
 
-Data Analysis of wearable technologies autonomous systems sensor in physiotherapy, Conducted a comprehensive data analysis on Xsens MTx sensor data 
+# Data Analysis of wearable technologies autonomous systems sensor in physiotherapy, Conducted a comprehensive data analysis on Xsens MTx sensor data 
 
 Conducted a comprehensive data analysis on Xsens MTx sensor data, employing advanced statistical analysis and visualization techniques to develop a fully autonomous system. This system can detect sequential executions of various exercise types during a session, classify each exercise type, evaluate the correctness of each execution, and identify specific error types and idle time intervals. Additionally, the project included an analysis of market data to provide economically viable recommendations for enhancing competitiveness in the market.
 
